@@ -1,2 +1,2 @@
-- [Scenario](scenario)
-- [Overview](overview)
+- [Scenario](scenario.md)
+- [Overview](overview.md)
