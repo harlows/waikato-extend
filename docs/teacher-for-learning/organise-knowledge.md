@@ -1,4 +1,4 @@
-### Organise Knowledge
+## Organise Knowledge
 
 The way we present information and how we subsequently categorise new knowledge can make dramatic differences in our students’ learning. We can help learners to make sense of new information by being explicit about how we suggest information fits with prior knowledge.
 
@@ -44,13 +44,13 @@ Most people remember more words the second time that they play the game. There a
 
 This simple game covers a great deal of the seven evidence-based principles for learning that are discussed in this module.
 
-### Strategies for Organising Information
+## Strategies for Organising Information
 
 #### 1\. Consider Universal Design for Learning
 
 Universal Design for Learning acknowledges that there is great variation in how individuals learn. Two major points of Universal Design for Learning:
 
-![UDL is intended to increase access to learning by reducing physical, cognitive, intellectual, and organizational barriers to learning, as well as other obstacles. UDL principles also lend themselves to implementing inclusionary practices in the classroom. Curriculum, as defined in the UDL literature, has four parts: instructional goals, methods, materials, and assessments.](images/8527950743_1ee8212450_o.jpg) Learning should be designed to be accessible to everyone of all intersections of identity. Information should be conveyed in a variety of ways, known as “multiple means of representation.” For example, instead of using just a wall of text, consider adding some visual elements. If you do add an image you should explain it using the description tag available online. Sometimes a video is the best way to explain something, but if you use video, be sure to always include transcripts and captioning. (The information about [Universal Design for Learning](http://www.cast.org/impact/universal-design-for-learning-udl) goes into great depth about this.
+![UDL is intended to increase access to learning by reducing physical, cognitive, intellectual, and organisational barriers to learning, as well as other obstacles. UDL principles also lend themselves to implementing inclusionary practices in the classroom. Curriculum, as defined in the UDL literature, has four parts: instructional goals, methods, materials, and assessments.](images/8527950743_1ee8212450_o.jpg) Learning should be designed to be accessible to everyone of all intersections of identity. Information should be conveyed in a variety of ways, known as “multiple means of representation.” For example, instead of using just a wall of text, consider adding some visual elements. If you do add an image you should explain it using the description tag available online. Sometimes a video is the best way to explain something, but if you use video, be sure to always include transcripts and captioning. (The information about [Universal Design for Learning](http://www.cast.org/impact/universal-design-for-learning-udl) goes into great depth about this.
 
 * * *
 
@@ -83,7 +83,7 @@ Visit the [Syllabus Concept Map activity](https://elearn.waikato.ac.nz/mod/foru
 
 Instead of providing your complete lecture notes on the LMS, consider offering a partial graphic organiser (see [Visual Organiser Tools in the Extend Toolkit](https://toolkit.ecampusontario.ca/family/visual-organizer/)) that highlights some of the key learning. This creates high impact learning as students can actively participate in their learning, especially if you prompt them to record in important facts to create the full picture. This practice should also help to ensure attendance remains high. [In Increasing Text Comprehension and Graphic Note Taking Using a Partial Graphic Organiser](https://doi.org/10.3200/JOER.100.2.103-111), Robinson et al (2006) describes how using partial graphic organisers can aid in learning.
 
-![Organized Notes](images/organise_notes.jpg)
+![Organised Notes](images/organise_notes.jpg)
 
 * * *
 
