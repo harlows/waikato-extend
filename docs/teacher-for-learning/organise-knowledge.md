@@ -57,7 +57,7 @@ This simple game covers a great deal of the seven evidence-based principles for 
 
 Universal Design for Learning acknowledges that there is great variation in how individuals learn. Two major points of Universal Design for Learning:
 
-![UDL is intended to increase access to learning by reducing physical, cognitive, intellectual, and organizational barriers to learning, as well as other obstacles. UDL principles also lend themselves to implementing inclusionary practices in the classroom. Curriculum, as defined in the UDL literature, has four parts: instructional goals, methods, materials, and assessments.](images/8527950743_1ee8212450_o.jpg.jpg) Learning should be designed to be accessible to everyone of all intersections of identity. Information should be conveyed in a variety of ways, known as “multiple means of representation.” For example, instead of using just a wall of text, consider adding some visual elements. If you do add an image you should explain it using the description tag available online. Sometimes a video is the best way to explain something, but if you use video, be sure to always include transcripts and captioning. (The information about [Universal Design for Learning](http://www.cast.org/impact/universal-design-for-learning-udl) goes into great depth about this.
+![UDL is intended to increase access to learning by reducing physical, cognitive, intellectual, and organizational barriers to learning, as well as other obstacles. UDL principles also lend themselves to implementing inclusionary practices in the classroom. Curriculum, as defined in the UDL literature, has four parts: instructional goals, methods, materials, and assessments.](images/8527950743_1ee8212450_o.jpg) Learning should be designed to be accessible to everyone of all intersections of identity. Information should be conveyed in a variety of ways, known as “multiple means of representation.” For example, instead of using just a wall of text, consider adding some visual elements. If you do add an image you should explain it using the description tag available online. Sometimes a video is the best way to explain something, but if you use video, be sure to always include transcripts and captioning. (The information about [Universal Design for Learning](http://www.cast.org/impact/universal-design-for-learning-udl) goes into great depth about this.
 
 * * *
 
@@ -96,7 +96,7 @@ Instead of providing your complete lecture notes on the LMS, consider offering a
 
 #### 4\. Provide opportunities for better notetaking
 
-<iframe width="780" height="585" src="https://www.youtube.com/embed/WtW9IyE04OQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/embed/WtW9IyE04OQ"></iframe></div>
 
 Direct Link: [How to Take Cornell Notes](https://youtu.be/WtW9IyE04OQ)
 
