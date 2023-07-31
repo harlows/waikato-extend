@@ -2,7 +2,7 @@
 
 The way we present information and how we subsequently categorise new knowledge can make dramatic differences in our students’ learning. We can help learners to make sense of new information by being explicit about how we suggest information fits with prior knowledge.
 
-#### Activity
+### Activity <!-- {docsify-ignore} -->
 
 **Play this game that shows how organisation matters**
 
@@ -63,9 +63,8 @@ If you are still not convinced, check out [The Theory Underlying Concept Maps an
 Keep in mind that mind maps are not just good for students, they are great for teachers too. When planning your course, you could use a mind map to decide what content to include and how they are connected. You could then share it with your students, so they can get an overview of how you see your course fitting together. Using mind maps to outline your course syllabus not only models how to organise information but also adheres to the universal design principles of conveying information in multiple modes, according to Biktimirov & Nilson, 2006 in [Show Them the Money: Using Mind Mapping in the Introductory Finance Course](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2467958).
 
 
-
-#### Extend Activity #2
 ---
+#### Extend Activity #2
 >
 >Syllabus Concept Map
 >
@@ -102,9 +101,8 @@ Direct Link: [How to Take Cornell Notes](https://youtu.be/WtW9IyE04OQ)
 [Download a PDF](https://alisoninnes.files.wordpress.com/2017/10/cornell-notes-quick-dirty-guide.pdf) version of these Cornell Notes.
 
 
-
-#### Extend Activity #3
 ---
+#### Extend Activity #3
 >
 >Cornell Notes
 >
