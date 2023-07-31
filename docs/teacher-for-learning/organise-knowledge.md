@@ -52,7 +52,7 @@ Universal Design for Learning acknowledges that there is great variation in how 
 
 ![UDL is intended to increase access to learning by reducing physical, cognitive, intellectual, and organisational barriers to learning, as well as other obstacles. UDL principles also lend themselves to implementing inclusionary practices in the classroom. Curriculum, as defined in the UDL literature, has four parts: instructional goals, methods, materials, and assessments.](images/8527950743_1ee8212450_o.jpg) Learning should be designed to be accessible to everyone of all intersections of identity. Information should be conveyed in a variety of ways, known as “multiple means of representation.” For example, instead of using just a wall of text, consider adding some visual elements. If you do add an image you should explain it using the description tag available online. Sometimes a video is the best way to explain something, but if you use video, be sure to always include transcripts and captioning. (The information about [Universal Design for Learning](http://www.cast.org/impact/universal-design-for-learning-udl) goes into great depth about this.
 
-* * *
+***
 
 ### 2. Mind Mapping
 
@@ -66,15 +66,14 @@ Keep in mind that mind maps are not just good for students, they are great for t
 
 #### Extend Activity #2
 ---
-
-Syllabus Concept Map
-
-Using [MindMup](https://www.mindmup.com/) or another [visual organiser tool in the Extend Toolkit](https://toolkit.ecampusontario.ca/family/visual-organizer/), create a concept map of your course syllabus.
-
-Visit the [Syllabus Concept Map activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1595143) for full instructions.
-
+>
+>Syllabus Concept Map
+>
+>Using [MindMup](https://www.mindmup.com/) or another [visual organiser tool in the Extend Toolkit](https://toolkit.ecampusontario.ca/family/visual-organizer/), create a concept map of your course syllabus.
+>
+>Visit the [Syllabus Concept Map activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1595143) for full instructions.
+>
   
-
 [Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1595143 ':class=button')
 
 ***
@@ -106,13 +105,13 @@ Direct Link: [How to Take Cornell Notes](https://youtu.be/WtW9IyE04OQ)
 
 #### Extend Activity #3
 ---
-
-Cornell Notes
-
-Watch a TED Talk or conference keynote video to practice your own note taking skills using Cornell Notes.
-
-Visit the [Cornell Notes activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1597313) for full instructions.
-
+>
+>Cornell Notes
+>
+>Watch a TED Talk or conference keynote video to practice your own note taking skills using Cornell Notes.
+>
+>Visit the [Cornell Notes activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1597313) for full instructions.
+>
 
 [Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1597313 ':class=button')
 
@@ -172,10 +171,11 @@ Finally, and possibly most importantly, ask the students what questions remain.
 
 You will find that structuring the end of your lecture in this way is more effective than simply asking the students, “Do you have any questions?” Students often interpret that question as a signal that it is time to pack up their laptops and belongings. In contrast, the summarising time and activities makes the students’ thinking visible and provides an immediate opportunity for students to confront any misconceptions.
 
-_**Do you have any successful tips/techniques/best practices to share with regard to how you typically end your lectures? Or if you do not teach, perhaps successful ways to end a presentation?**_
-
-Visit the discussion forum to share your thoughts!
-
+>
+>_**Do you have any successful tips/techniques/best practices to share with regard to how you typically end your lectures? Or if you do not teach, perhaps successful ways to end a presentation?**_
+>
+>Visit the discussion forum to share your thoughts!
+>
   
 [Take me to the discussion!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1626677 ':class=button')
 
