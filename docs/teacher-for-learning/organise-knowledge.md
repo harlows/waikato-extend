@@ -8,7 +8,7 @@ The way we present information and how we subsequently categorise new knowledge 
 
 (Modified from: [Fink, D. (2015, June 18). *Five high impact teaching practices* [Keynote address]. STLHE, Vancouver](https://stlhe15.sched.com/event/3Yfs/keynote-02-5-high-impact-teaching-practices).)
 
-**1\. Look at the list of words and count all of the vowels.**
+**1. Look at the list of words and count all of the vowels.**
 
     
 | Dollar bill          | Cat Lives          |
@@ -22,17 +22,17 @@ The way we present information and how we subsequently categorise new knowledge 
 | **Octopus**          |                    |
 
 
-**2\. How many vowels did you count?**
+**2. How many vowels did you count?**
 
-**3\. How many words do you remember?**
+**3. How many words do you remember?**
 
 This activity often generates a lot of groans. Participants want to succeed so much in the task assigned the first time that they barely pay any attention to the words themselves. When they are asked to shift and remember words, they are frustrated because they feel misled.
 
-**4\. Now look at the words again.**
+**4. Now look at the words again.**
 
 Did you notice the pattern of organisation: that each word is associated with a number?
 
-**5\. Try the game again.**
+**5. Try the game again.**
 
 How many words did you remember this time?
 
@@ -44,7 +44,7 @@ Most people remember more words the second time that they play the game. There a
 
 This simple game covers a great deal of the seven evidence-based principles for learning that are discussed in this module.
 
-## Strategies for Organising Information
+## Strategies for Organising Information <!-- {docsify-ignore} -->
 
 ### 1. Consider Universal Design for Learning
 
@@ -113,9 +113,10 @@ Watch a TED Talk or conference keynote video to practice your own note taking sk
 
 Visit the [Cornell Notes activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1597313) for full instructions.
 
-  
 
 [Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1597313)
+
+* * *
 
 ### 5. Allow time to process
 
