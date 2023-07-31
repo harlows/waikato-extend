@@ -1,4 +1,4 @@
-## Organise Knowledge
+# Organise Knowledge
 
 The way we present information and how we subsequently categorise new knowledge can make dramatic differences in our students’ learning. We can help learners to make sense of new information by being explicit about how we suggest information fits with prior knowledge.
 
@@ -6,7 +6,7 @@ The way we present information and how we subsequently categorise new knowledge 
 
 **Play this game that shows how organisation matters**
 
-(Modified from: [Fink, D. (2015) Creating Significant Learning Experiences. STLHE, Vancouver](https://stlhe15.sched.com/event/3Yfs/keynote-02-5-high-impact-teaching-practices).)
+(Modified from: [Fink, D. (2015, June 18). *Five high impact teaching practices* [Keynote address]. STLHE, Vancouver](https://stlhe15.sched.com/event/3Yfs/keynote-02-5-high-impact-teaching-practices).)
 
 **1\. Look at the list of words and count all of the vowels.**
 
@@ -46,7 +46,7 @@ This simple game covers a great deal of the seven evidence-based principles for 
 
 ## Strategies for Organising Information
 
-#### 1\. Consider Universal Design for Learning
+### 1\. Consider Universal Design for Learning
 
 Universal Design for Learning acknowledges that there is great variation in how individuals learn. Two major points of Universal Design for Learning:
 
@@ -54,7 +54,7 @@ Universal Design for Learning acknowledges that there is great variation in how 
 
 * * *
 
-#### 2\. Mind Mapping
+### 2\. Mind Mapping
 
 Mind mapping has been found to be an effective means of helping students organise new learning while reinforcing previous learning and improving information retrieval. Some studies have found that using mind mapping as a learning [strategy facilitates memory and critical thinking.](https://bmcmededuc.biomedcentral.com/track/pdf/10.1186/1472-6920-10-61)
 
@@ -79,7 +79,7 @@ Visit the [Syllabus Concept Map activity](https://elearn.waikato.ac.nz/mod/foru
 
 * * *
 
-#### 3\. Offer a partial graphic organiser
+### 3\. Offer a partial graphic organiser
 
 Instead of providing your complete lecture notes on the LMS, consider offering a partial graphic organiser (see [Visual Organiser Tools in the Extend Toolkit](https://toolkit.ecampusontario.ca/family/visual-organizer/)) that highlights some of the key learning. This creates high impact learning as students can actively participate in their learning, especially if you prompt them to record in important facts to create the full picture. This practice should also help to ensure attendance remains high. [In Increasing Text Comprehension and Graphic Note Taking Using a Partial Graphic Organiser](https://doi.org/10.3200/JOER.100.2.103-111), Robinson et al (2006) describes how using partial graphic organisers can aid in learning.
 
@@ -87,7 +87,7 @@ Instead of providing your complete lecture notes on the LMS, consider offering a
 
 * * *
 
-#### 4\. Provide opportunities for better notetaking
+### 4\. Provide opportunities for better notetaking
 
 <div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/embed/WtW9IyE04OQ"></iframe></div>
 
@@ -117,7 +117,7 @@ Visit the [Cornell Notes activity](https://elearn.waikato.ac.nz/mod/forum/view.
 
 [Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1597313)
 
-#### 5\. Allow time to process
+### 5\. Allow time to process
 
 ![10 Minutes](images/extend-teacher.jpg)
 
