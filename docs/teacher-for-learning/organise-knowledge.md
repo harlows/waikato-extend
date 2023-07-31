@@ -6,7 +6,7 @@ The way we present information and how we subsequently categorise new knowledge 
 
 **Play this game that shows how organisation matters**
 
-(Modified from: [Fink, D. (2015, June 18). *Five high impact teaching practices* [Keynote address]. STLHE, Vancouver](https://stlhe15.sched.com/event/3Yfs/keynote-02-5-high-impact-teaching-practices).)
+(Modified from: [Fink, D. (2015, June 18). _Five high impact teaching practices_ [Keynote address]. STLHE, Vancouver](https://stlhe15.sched.com/event/3Yfs/keynote-02-5-high-impact-teaching-practices).)
 
 **1. Look at the list of words and count all of the vowels.**
 
@@ -36,13 +36,13 @@ Did you notice the pattern of organisation: that each word is associated with a 
 
 How many words did you remember this time?
 
-Most people remember more words the second time that they play the game. There are three reasons for this.
-
-1.  They knew what the real task was by being provided the criteria for success.
-2.  The information was organised in a way to aid memory.
-3.  They were given more than one opportunity to practice remembering to stimulate the recall of previously acquired information.
-
-This simple game covers a great deal of the seven evidence-based principles for learning that are discussed in this module.
+>Most people remember more words the second time that they play the game. There are three reasons for this.
+>
+>1.  They knew what the real task was by being provided the criteria for success.
+>2.  The information was organised in a way to aid memory.
+>3.  They were given more than one opportunity to practice remembering to stimulate the recall of previously >acquired information.
+>
+>This simple game covers a great deal of the seven evidence-based principles for learning that are discussed in this module.
 
 ## Strategies for Organising Information <!-- {docsify-ignore} -->
 
@@ -65,7 +65,7 @@ Keep in mind that mind maps are not just good for students, they are great for t
 
 
 #### Extend Activity #2
-------------------
+---
 
 Syllabus Concept Map
 
@@ -75,9 +75,9 @@ Visit the [Syllabus Concept Map activity](https://elearn.waikato.ac.nz/mod/foru
 
   
 
-[Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1595143)
+[Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1595143 ':class=button')
 
-* * *
+***
 
 ### 3. Offer a partial graphic organiser
 
@@ -85,7 +85,7 @@ Instead of providing your complete lecture notes on the LMS, consider offering a
 
 ![Organised Notes](images/organise_notes.jpg)
 
-* * *
+***
 
 ### 4. Provide opportunities for better notetaking
 
@@ -105,7 +105,7 @@ Direct Link: [How to Take Cornell Notes](https://youtu.be/WtW9IyE04OQ)
 
 
 #### Extend Activity #3
-------------------
+---
 
 Cornell Notes
 
@@ -114,9 +114,9 @@ Watch a TED Talk or conference keynote video to practice your own note taking sk
 Visit the [Cornell Notes activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1597313) for full instructions.
 
 
-[Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1597313)
+[Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1597313 ':class=button')
 
-* * *
+***
 
 ### 5. Allow time to process
 
@@ -177,6 +177,6 @@ _**Do you have any successful tips/techniques/best practices to share with regar
 Visit the discussion forum to share your thoughts!
 
   
-[Take me to the discussion!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1626677)
+[Take me to the discussion!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1626677 ':class=button')
 
 ![logo](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
