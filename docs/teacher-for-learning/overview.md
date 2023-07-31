@@ -1,8 +1,8 @@
-### Overview
+# Overview <!-- {docsify-ignore} -->
 
 Why else do we teach but for learning? Yet, there is often a disconnect between conventional, accepted teaching practices and research evidence about what enables learning. In this module, we will explore how we learn and what we can do to ensure learning environments are effective, accessible, intersectional, and equitable. As we extend our knowledge, we will consider strategies for designing significant learning experiences that are grounded in and informed by research principles that foster student learning in specific contexts.
 
-#### Extend Connections
+## Extend Connections
 
 [**Effective**](https://www.merriam-webster.com/dictionary/effective)**:** producing a decided, decisive, or desired effect.
 
@@ -12,11 +12,11 @@ Why else do we teach but for learning? Yet, there is often a disconnect between 
 
 [**Accessibility**](https://accessiblecampus.ca/understanding-accessibility/)**:** is a general term used to describe the degree to which a product, device, service, or environment is available to be used by all intended audiences.
 
-#### Outcome
+## Outcome
 
 Design effective learning activities and experiences that are grounded in research-based principles of learning that promote students using their knowledge in meaningful ways.
 
-#### Objectives
+## Objectives
 
 *   Reflect on core beliefs about teaching and learning and the ways they impact teaching practices and learning outcomes.
 *   Examine [teaching approaches and strategies](https://www.cmu.edu/teaching/principles/teaching.html) that foster student learning in specific contexts.
