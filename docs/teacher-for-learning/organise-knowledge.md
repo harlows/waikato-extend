@@ -8,13 +8,8 @@ The way we present information and how we subsequently categorise new knowledge 
 
 (Modified from: [Fink, D. (2015) Creating Significant Learning Experiences. STLHE, Vancouver](https://stlhe15.sched.com/event/3Yfs/keynote-02-5-high-impact-teaching-practices).)
 
-**1\. Click the button below to view a list of words and count all of the vowels.**
+**1\. Look at the list of words and count all of the vowels.**
 
-<div class="accordion">
-
-  <details>
-<summary>View list of words</summary>
-<p></p>
     
 | Dollar bill          | Cat Lives          |
 |:---------------------|:-------------------|
@@ -26,8 +21,6 @@ The way we present information and how we subsequently categorise new knowledge 
 | **Seven-Up**         | **Quarter Hour**   |
 | **Octopus**          |                    |
 
-
-</details>
 
 **2\. How many vowels did you count?**
 
