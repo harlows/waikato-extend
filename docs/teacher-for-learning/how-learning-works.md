@@ -1,4 +1,4 @@
-### How Learning Works
+# How Learning Works <!-- {docsify-ignore} -->
 
 This module is based primarily on the excellent book by Susan Ambrose and colleagues, [**How Learning Works: Seven Research-Based Principles for Smart Teaching**](https://waikato.primo.exlibrisgroup.com/permalink/64WAIKATO_INST/10hutka/alma9917428498803401) (2010).  
 Jossey-Bass: San Francisco.
