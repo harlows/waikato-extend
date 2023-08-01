@@ -10,3 +10,4 @@
 - [Feedback and Practice](feedback-and-practice.md)
 - [Climate of the Course](climate-of-the-course.md)
 - [Metacognition](metacognition.md)
+- [Summary](summary.md)
