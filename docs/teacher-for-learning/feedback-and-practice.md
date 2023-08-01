@@ -12,6 +12,6 @@ Here are some strategies for applying formative assessments:
 
 >Deliberate instruction is the act of always considering your desired outcome and intended learning for your students, and then working backwards in your lesson planning so that students can successfully achieve that goal. You cannot expect students to achieve the learning goals if you made the process of getting there both convoluted and unattainable.
 
-![Deliberate Instruction](https://images/teacher-for-learning-feedback-and-practice-deliberate-instruction.jpg)
+![Deliberate Instruction](images/teacher-for-learning-feedback-and-practice-deliberate-instruction.jpg)
 
 ![logo](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
