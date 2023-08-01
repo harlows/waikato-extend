@@ -36,13 +36,13 @@ Did you notice the pattern of organisation: that each word is associated with a 
 
 How many words did you remember this time?
 
->Most people remember more words the second time that they play the game. There are three reasons for this.
->
->1.  They knew what the real task was by being provided the criteria for success.
->2.  The information was organised in a way to aid memory.
->3.  They were given more than one opportunity to practice remembering to stimulate the recall of previously >acquired information.
->
->This simple game covers a great deal of the seven evidence-based principles for learning that are discussed in this module.
+?>Most people remember more words the second time that they play the game. There are three reasons for this.
+?>
+?>1.  They knew what the real task was by being provided the criteria for success.
+?>2.  The information was organised in a way to aid memory.
+?>3.  They were given more than one opportunity to practice remembering to stimulate the recall of previously acquired information.
+?>
+?>This simple game covers a great deal of the seven evidence-based principles for learning that are discussed in this module.
 
 ## Strategies for Organising Information <!-- {docsify-ignore} -->
 
