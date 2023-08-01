@@ -64,9 +64,8 @@ Keep in mind that mind maps are not just good for students, they are great for t
 
 
 ---
-#### Extend Activity #2
->
->Syllabus Concept Map
+### Extend Activity #2
+#### Syllabus Concept Map
 >
 >Using [MindMup](https://www.mindmup.com/) or another [visual organiser tool in the Extend Toolkit](https://toolkit.ecampusontario.ca/family/visual-organizer/), create a concept map of your course syllabus.
 >
@@ -102,9 +101,8 @@ Direct Link: [How to Take Cornell Notes](https://youtu.be/WtW9IyE04OQ)
 
 
 ---
-#### Extend Activity #3
->
->Cornell Notes
+### Extend Activity #3
+#### Cornell Notes
 >
 >Watch a TED Talk or conference keynote video to practice your own note taking skills using Cornell Notes.
 >
