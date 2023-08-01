@@ -1,6 +1,6 @@
 # Mastery
 
-One of the most difficult aspects of deconstructing the skills and concepts associated with achieving mastery occurs when dealing with **“threshold concepts.**” These are often essential concepts in the discipline that must be understood in order to achieve mastery but are extremely challenging because once you fully understand them it is almost impossible to conceive of the topic without them. This is often described as an “expert blind spot.”
+One of the most difficult aspects of deconstructing the skills and concepts associated with achieving mastery occurs when dealing with **“threshold concepts.”** These are often essential concepts in the discipline that must be understood in order to achieve mastery but are extremely challenging because once you fully understand them it is almost impossible to conceive of the topic without them. This is often described as an “expert blind spot.”
 
 If you have an expert blind spot, it is difficult to break down the concept into its component parts because your thinking has been irrevocably transformed. It is our role as educators to try and remember what it is like to be a novice learner.
 
@@ -10,7 +10,7 @@ To learn to drive, you require many component skills, including knowing where th
 
 Learning the component skills to achieve mastery is crucial in any discipline. For example, in economics, physics, or chemistry, the application of a formula can be more easily learned if simple calculations like addition and multiplication have first been mastered so that no cognitive overload occurs. Having the component skills in place allows the learner to focus on the larger conceptual problem.
 
-***
+---
 ### Extend Activity #5
 #### Like Driving a Car
 >
@@ -20,7 +20,8 @@ Learning the component skills to achieve mastery is crucial in any discipline. F
 >
 
 [Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1601368 ':class=button')
----
+
+***
 
 ![What skills are required to master a concept or skill?  Describe all the specific skills and provide ways for students to practice these skills.](images/teacher-for-learning-mastery-skills.jpg)
 
