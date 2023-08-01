@@ -18,11 +18,11 @@ These factors that promote a healthy classroom climate will vary depending on th
 
 ![Education](images/teacher-for-learning-climate-education.jpg)
 
-### What does a positive classroom climate look like online?
+## What does a positive classroom climate look like online?
 
 As you will see in other modules, the [Community of Inquiry](https://coi.athabascau.ca/coi-model/) is a helpful framework. Beyond just the presentation of content, described as the “cognitive presence,” it is also important to balance and consider social and teaching presences.
 
-### Extend Connections
+## Extend Connections
 
 Be aware that some ideas of a positive classroom space can come at the expense of marginalized students. When trying to create a learning environment that is productive and inclusive for all students, consider the multiplicity of experiences students might be coming from.
 
