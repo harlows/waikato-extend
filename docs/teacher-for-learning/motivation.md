@@ -28,7 +28,3 @@ This may mean shifting your understanding of why students are enrolled in your c
 [Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1601249 ':class=button')
 
 ***
-
-![logo](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-      
