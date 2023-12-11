@@ -21,5 +21,3 @@ Design effective learning activities and experiences that are grounded in resear
 *   Reflect on core beliefs about teaching and learning and the ways they impact teaching practices and learning outcomes.
 *   Examine [teaching approaches and strategies](https://www.cmu.edu/teaching/principles/teaching.html) that foster student learning in specific contexts.
 *   Identify considerations when designing significant learning experiences grounded in and informed by research-based principles.
-
-![logo](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
