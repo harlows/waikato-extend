@@ -28,5 +28,3 @@ Here are some helpful prompts to ask your learners:
 One activity that can be done at the end of class is [Stephen Brookfield’s critical incident questionnaire (CIQ).](http://www.stephenbrookfield.com/critical-incident-questionnaire)
 
 Other metacognitive strategies that lead to self-directed learners are [Note-taking](https://www.flickr.com/photos/gforsythe/5735684602/) ([see Organise Knowledge](organise-knowledge.md)), One Minute Paper ([see Feedback and Practice](feedback-and-practice.md)), Reflective Writing (nuggets), Exam Wrappers, and Retrospective Post-Assessment.
-
-![logo](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
