@@ -18,5 +18,3 @@ The seven principles are:
 *   To become **self-directed learners,** students must learn to monitor and adjust their approaches to learning.
 
 ![A visual representation of the 7 research-based principled for Smart Teaching - from the book How Learning Works.](images/teacher-for-learning-how-learning-works-seven-principles.jpg)
-
-![logo](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
