@@ -31,5 +31,3 @@ Some great resources that might help you think about this are:
 Anthony Jack’s Ted Talk [On Diversity: Access Ain’t Inclusion](https://www.youtube.com/watch?v=j7w2Gv7ueOc)
 
 Peter James Hudson’s interview with [“Katherine McKittrick, Author of Demonic Grounds, on Trigger Warnings”](https://bullybloggers.wordpress.com/2014/12/17/katherine-mckittrick-author-of-demonic-grounds-on-trigger-warnings/)
-
-![logo](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
