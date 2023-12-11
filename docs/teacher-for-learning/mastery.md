@@ -24,5 +24,3 @@ Learning the component skills to achieve mastery is crucial in any discipline. F
 ***
 
 ![What skills are required to master a concept or skill?  Describe all the specific skills and provide ways for students to practice these skills.](images/teacher-for-learning-mastery-skills.jpg)
-
-![logo](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
