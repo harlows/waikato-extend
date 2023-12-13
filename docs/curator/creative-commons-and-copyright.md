@@ -44,7 +44,7 @@ The licenses with the most restrictive permissions are at the bottom moving up t
 
 ![ShareAlike Icon](https://mirrors.creativecommons.org/presskit/icons/sa.png) Sharing: If you adapt this work and share it publicly, you must release the new work under the same open license.
 
-![Freedom of reuse explained](images/oer.png)
+![Freedom of reuse explained](images/oer.png ':class=image-25')
 
 Source: [UBC wiki: Creative commons licenses](http://wiki.ubc.ca/UBC_Wiki:Creative_Commons_Licenses "UBC wiki: Creative commons licenses").
 
