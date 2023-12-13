@@ -7,4 +7,5 @@ I know that some of my resources need refreshing, but I am not sure what resourc
 - Explore curation tools that align to specific preferences and needs.
 
 <div class="video-container-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/H9oKTbAGLrY"></iframe></div>
-Direct Link: [Curation Module](https://www.youtube.com/watch?v=H9oKTbAGLrY)
+
+Direct Link: [Curation](https://www.youtube.com/watch?v=H9oKTbAGLrY)
