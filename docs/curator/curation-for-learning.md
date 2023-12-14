@@ -16,7 +16,7 @@ Examples of content curation tools include [Pocket](https://getpocket.com/), [Sc
 
 A graphic view of content curation:
 
-![Image of content curation focusing on Aggregation, Distillation, Chronology, Mash-ups and then Elevation to a newly created curation.](images/24674719518_6caca67dbb_o.jpg ':class=image-50')
+![Image of content curation focusing on Aggregation, Distillation, Chronology, Mash-ups and then Elevation to a newly created curation.](images/24674719518_6caca67dbb_o.jpg ':size=50%')
 
 Each of these resources reveals that content curation likely aligns well to what you already do when you design and develop your courses to facilitate learning. Here, we simply reframe the process and identify tools and strategies to assist you along the way.
 
