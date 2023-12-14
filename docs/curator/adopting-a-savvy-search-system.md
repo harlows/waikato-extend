@@ -64,6 +64,7 @@ If, like the majority of the world, you use Google as your primary search engine
 Take this short quiz to review how Boolean Operators work.
 
 <iframe src="Boolean%20Operators.h5p" width="793" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 * * *
 
