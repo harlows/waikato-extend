@@ -4,7 +4,7 @@ The Internet can be a confusing place when you are looking for current, high-qua
 
 This cartoon illustrates the conundrum:
 
-![A librarian dreaming of an organised, structured internet](images/38547087551_4e0e9a4459_o.jpg)
+![A librarian dreaming of an organised, structured internet](images/38547087551_4e0e9a4459_o.jpg ':class=image-50')
 
 Fortunately for educator-curators, Creative Commons licensed resources are finding their own spaces for content and integrating with popular search sites, making it easier to discover and use material (many of which are listed below under Spotlight on Repositories). But before you begin to explore the various sites, it is worth reviewing some basic search strategies.
 
@@ -16,7 +16,7 @@ Note: There are more specific strategies if you are searching more organized res
 
 Most searches begin with a straightforward keyword search. It pays to take a few moments to consider the best keywords to use. For example, suppose you are searching for information on a game you can use to teach a concept in a chemistry class. If you type in chemistry game, you would expect the search engine to return anything with chemistry or game in the searchable information. But what if game is not the best word to use? Perhaps what you are really after is a simulation? Would your search generate the results you are seeking?
 
-![Pen labelled pen, writing, utensil and marker](images/38490785556_77c0623345_w.jpg)
+![Pen labelled pen, writing, utensil and marker](images/38490785556_77c0623345_w.jpg ':class=image-50')
 
 Think of different words that other people may use to describe something. You may reveal hidden gems, especially when searching a resource that lacks a defined organizational structure (i.e., the web!).
 
@@ -36,15 +36,15 @@ For example, suppose you are attempting a basic search to find information on le
 
 If you search “colleges AND universities,” your results must include both terms. The starred (overlapping) area in the graphic below depicts the results.
 
-![Overlapping circles of colleges and universities with a star in the overlap](images/38547089521_1fcfd556de_w.jpg)
+![Overlapping circles of colleges and universities with a star in the overlap](images/38547089521_1fcfd556de_w.jpg ':class=image-50')
 
 If you search “colleges OR universities,” your results change, with the stars now in both overlapping and separate areas.
 
-![Overlapping circles of colleges and universities with a star in each circle and in the overlap](images/24674719568_3bcb4d823b_w.jpg)
+![Overlapping circles of colleges and universities with a star in each circle and in the overlap](images/24674719568_3bcb4d823b_w.jpg ':class=image-50')
 
 And if you choose to narrow your search to “colleges NOT universities,” the results are different again.
 
-![Overlapping circles of colleges and universities with a star in the college circle](images/38547089381_8eb0913efb_w.jpg)
+![Overlapping circles of colleges and universities with a star in the college circle](images/38547089381_8eb0913efb_w.jpg ':class=image-50')
 
 *   Using “AND” narrows your results as both terms must be present; there is more precision in your search.
 *   Using “OR” expands your results as only one term must be present; you have less precision, but you are also less likely to miss an important resource.
@@ -53,6 +53,7 @@ And if you choose to narrow your search to “colleges NOT universities,” the 
 * * *
 
 The three-minute video “Boolean Operators - Science” (B. D. Owen Library, July 2015) provides examples of conducting searches.
+<div class="video-container-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/wsiejD-WSSA"></iframe></div>
 
 Direct Link: [Boolean Operators – Science](https://youtu.be/wsiejD-WSSA)
 
