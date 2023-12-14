@@ -4,7 +4,7 @@ The Internet can be a confusing place when you are looking for current, high-qua
 
 This cartoon illustrates the conundrum:
 
-![A librarian dreaming of an organised, structured internet](images/38547087551_4e0e9a4459_o.jpg ':class=image-75')
+![A librarian dreaming of an organised, structured internet](images/38547087551_4e0e9a4459_o.jpg ':size=50%')
 
 Fortunately for educator-curators, Creative Commons licensed resources are finding their own spaces for content and integrating with popular search sites, making it easier to discover and use material (many of which are listed below under Spotlight on Repositories). But before you begin to explore the various sites, it is worth reviewing some basic search strategies.
 
