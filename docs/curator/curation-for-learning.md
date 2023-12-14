@@ -4,7 +4,7 @@ Content curators provide a customized, vetted selection of the best and most rel
 
 Beth Kanter, a social media author and blogger, provides this definition of curation in her blog [Content Curation Primer](http://www.bethkanter.org/content-curation-101/):
 
-“Content curation is the process of sorting through the vast amounts of content on the web and presenting it in a meaningful and organized way around a specific theme. The work involves sifting, sorting, arranging, and publishing information. A content curator cherry picks the best content that is important and relevant to share with their community. This is similar to what a museum curator does to produce an exhibition: They identify the theme, they provide the context, they decide which paintings to hang on the wall, how they should be annotated, and how they should be displayed for the public”.
+> Content curation is the process of sorting through the vast amounts of content on the web and presenting it in a meaningful and organized way around a specific theme. The work involves sifting, sorting, arranging, and publishing information. A content curator cherry picks the best content that is important and relevant to share with their community. This is similar to what a museum curator does to produce an exhibition: They identify the theme, they provide the context, they decide which paintings to hang on the wall, how they should be annotated, and how they should be displayed for the public.
 
 If the notion of content curation is new to you, or if you want to brush up on your understanding of the concept, review the following references to learn more:
 
@@ -16,12 +16,8 @@ Examples of content curation tools include [Pocket](https://getpocket.com/), [Sc
 
 A graphic view of content curation:
 
-![Image of content curation focusing on Aggregation, Distillation, Chronology, Mash-ups and then Elevation to a newly created curation.](images/24674719518_6caca67dbb_o.jpg)
+![Image of content curation focusing on Aggregation, Distillation, Chronology, Mash-ups and then Elevation to a newly created curation.](images/24674719518_6caca67dbb_o.jpg ':class=image-50')
 
 Each of these resources reveals that content curation likely aligns well to what you already do when you design and develop your courses to facilitate learning. Here, we simply reframe the process and identify tools and strategies to assist you along the way.
 
 **Next you'll visit the Extend Community discussion board to identify your definition of content curation and why you think it might be important/useful.**
-
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
-
-![logo](https://elearn.waikato.ac.nz/draftfile.php/90614/user/draft/455962015/cc.svg)
