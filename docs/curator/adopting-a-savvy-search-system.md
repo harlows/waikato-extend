@@ -63,7 +63,7 @@ If, like the majority of the world, you use Google as your primary search engine
 
 Take this short quiz to review how Boolean Operators work.
 
-<iframe src="Boolean%20Opertors.h5p" width="793" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="Boolean Opertors.h5p" width="793" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 * * *
 
