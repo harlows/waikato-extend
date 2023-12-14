@@ -16,7 +16,7 @@ Note: There are more specific strategies if you are searching more organized res
 
 Most searches begin with a straightforward keyword search. It pays to take a few moments to consider the best keywords to use. For example, suppose you are searching for information on a game you can use to teach a concept in a chemistry class. If you type in chemistry game, you would expect the search engine to return anything with chemistry or game in the searchable information. But what if game is not the best word to use? Perhaps what you are really after is a simulation? Would your search generate the results you are seeking?
 
-![Pen labelled pen, writing, utensil and marker](images/38490785556_77c0623345_w.jpg ':class=image-25')
+![Pen labelled pen, writing, utensil and marker](images/38490785556_77c0623345_w.jpg ':size=50%')
 
 Think of different words that other people may use to describe something. You may reveal hidden gems, especially when searching a resource that lacks a defined organizational structure (i.e., the web!).
 
@@ -36,15 +36,15 @@ For example, suppose you are attempting a basic search to find information on le
 
 If you search “colleges AND universities,” your results must include both terms. The starred (overlapping) area in the graphic below depicts the results.
 
-![Overlapping circles of colleges and universities with a star in the overlap](images/38547089521_1fcfd556de_w.jpg ':class=image-25')
+![Overlapping circles of colleges and universities with a star in the overlap](images/38547089521_1fcfd556de_w.jpg ':size=25%')
 
 If you search “colleges OR universities,” your results change, with the stars now in both overlapping and separate areas.
 
-![Overlapping circles of colleges and universities with a star in each circle and in the overlap](images/24674719568_3bcb4d823b_w.jpg ':class=image-25')
+![Overlapping circles of colleges and universities with a star in each circle and in the overlap](images/24674719568_3bcb4d823b_w.jpg ':size=25%')
 
 And if you choose to narrow your search to “colleges NOT universities,” the results are different again.
 
-![Overlapping circles of colleges and universities with a star in the college circle](images/38547089381_8eb0913efb_w.jpg ':class=image-25')
+![Overlapping circles of colleges and universities with a star in the college circle](images/38547089381_8eb0913efb_w.jpg ':size=25%')
 
 *   Using “AND” narrows your results as both terms must be present; there is more precision in your search.
 *   Using “OR” expands your results as only one term must be present; you have less precision, but you are also less likely to miss an important resource.
