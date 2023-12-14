@@ -8,7 +8,7 @@ This cartoon illustrates the conundrum:
 
 Fortunately for educator-curators, Creative Commons licensed resources are finding their own spaces for content and integrating with popular search sites, making it easier to discover and use material (many of which are listed below under Spotlight on Repositories). But before you begin to explore the various sites, it is worth reviewing some basic search strategies.
 
-Note: There are more specific strategies if you are searching more organized resources such as library databases.
+> Note: There are more specific strategies if you are searching more organized resources such as library databases.
 
 * * *
 
