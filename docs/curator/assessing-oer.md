@@ -14,8 +14,6 @@ One widely used way to assess online resources is the [CRAAP test](http://libgui
 
 **Select each item in the framework to learn more.**
 
-Open all panels
-
 <div class="accordion">
 
 <details>
@@ -70,21 +68,16 @@ Open all panels
 
 Take a look at this two-minute video about Evaluating Sources (Western University, 2012) which provides an overview of the CRAAP test.
 
+<div class="video-container-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/EyMT08mD7Ds"></iframe></div>
+
 Direct Link: [Evaluating Sources](https://youtu.be/EyMT08mD7Ds)
 
-* * *
-
-![](https://elearn.waikato.ac.nz/draftfile.php/90614/user/draft/474018797/Extend%20Activity.png)
-
-#### Extend Activity #4
-
-#### Holy CRAAP!
-
-In this activity you will apply the [Assessing Online Resources Using CRAAP](https://h5pstudio.ecampusontario.ca/content/12925) assessment to one resource that you chose for your contribution to the shared [Curation as Creation | Creation as Curation Padlet](https://padlet.com/extend_ecampusontario/nis016u27mla) used in the [Curation Creation activity](https://bank.ecampusontario.ca/activity/curation-creation/).
-
-The goal of this module is to extend your awareness and appreciation of content curation. We hope that you also recognize it as a viable and vital option for finding resources as you design, develop and revise courses. Armed with knowledge to source and assess open education resources, you now have the tools to take more control over customizing your courses while saving your learners money by using OER.
-
-**There are 2 parts to this activity.** Visit the [Holy CRAAP!](https://bank.ecampusontario.ca/activity/holy-craap/)activity in the Activity bank for full instructions and the submission link.
-
+---
+### Extend Activity #4
+##### Holy CRAAP!
+>
+> In this activity you will apply the [Assessing Online Resources Using CRAAP](https://h5pstudio.ecampusontario.ca/content/12925) assessment to one resource that you chose for your contribution to the shared [Curation as Creation | Creation as Curation Padlet](https://padlet.com/extend_ecampusontario/nis016u27mla) used in the [Curation Creation activity](https://bank.ecampusontario.ca/activity/curation-creation/).
+> The goal of this module is to extend your awareness and appreciation of content curation. We hope that you also recognize it as a viable and vital option for finding resources as you design, develop and revise courses. Armed with knowledge to source and assess open education resources, you now have the tools to take more control over customizing your courses while saving your learners money by using OER.
+> **There are 2 parts to this activity.** Visit the [Holy CRAAP!](https://bank.ecampusontario.ca/activity/holy-craap/)activity in the Activity bank for full instructions and the submission link.
   
-[Take it to the Bank!](https://bank.ecampusontario.ca/activity/consider-this/)
+[Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1610758 ':class=button')
