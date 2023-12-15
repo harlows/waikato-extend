@@ -36,13 +36,13 @@ The licenses with the most restrictive permissions are at the bottom moving up t
 
 #### Licensing under Creative Commons covers:
 
-![Attribution Icon](https://mirrors.creativecommons.org/presskit/icons/by.png) Attribution: You may use this work as long as you provide credit to the original creator.
+![Attribution Icon](images/by.png) Attribution: You may use this work as long as you provide credit to the original creator.
 
-![NonCommercial Icon](https://mirrors.creativecommons.org/presskit/icons/nc.png) Commercial use: You may use this work as long as your primary purpose is not for commercial gains.
+![NonCommercial Icon](images/nc.png) Commercial use: You may use this work as long as your primary purpose is not for commercial gains.
 
-![NoDerivatives Icon](https://mirrors.creativecommons.org/presskit/icons/nd.png) Modifications or Derivatives: You may use this work as long as you do not adapt and distribute a new version.
+![NoDerivatives Icon](images/nd.png) Modifications or Derivatives: You may use this work as long as you do not adapt and distribute a new version.
 
-![ShareAlike Icon](https://mirrors.creativecommons.org/presskit/icons/sa.png) Sharing: If you adapt this work and share it publicly, you must release the new work under the same open license.
+![ShareAlike Icon](images/sa.png) Sharing: If you adapt this work and share it publicly, you must release the new work under the same open license.
 
 ![Freedom of reuse explained](images/oer.png ':size=50%')
 
