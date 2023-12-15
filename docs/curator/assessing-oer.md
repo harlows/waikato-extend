@@ -76,8 +76,10 @@ Direct Link: [Evaluating Sources](https://youtu.be/EyMT08mD7Ds)
 ### Extend Activity #4
 ##### Holy CRAAP!
 >
-> In this activity you will apply the [Assessing Online Resources Using CRAAP](https://h5pstudio.ecampusontario.ca/content/12925) assessment to one resource that you chose for your contribution to the shared [Curation as Creation | Creation as Curation Padlet](https://padlet.com/extend_ecampusontario/nis016u27mla) used in the [Curation Creation activity](https://bank.ecampusontario.ca/activity/curation-creation/).
+> In this activity you will apply the [Assessing Online Resources Using CRAAP](https://h5pstudio.ecampusontario.ca/content/12925) assessment to one resource that you chose for your contribution to the shared [Curation as Creation | Creation as Curation Padlet](https://padlet.com/WaikatoExtend/curation-as-creation-creation-as-curation-k3p7sv2jrvug6kbl) used in the [Curation Creation activity]().
+>
 > The goal of this module is to extend your awareness and appreciation of content curation. We hope that you also recognize it as a viable and vital option for finding resources as you design, develop and revise courses. Armed with knowledge to source and assess open education resources, you now have the tools to take more control over customizing your courses while saving your learners money by using OER.
-> **There are 2 parts to this activity.** Visit the [Holy CRAAP!](https://bank.ecampusontario.ca/activity/holy-craap/)activity in the Activity bank for full instructions and the submission link.
+>
+> **There are 2 parts to this activity.** Visit the [Holy CRAAP!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1610758)activity in the Activity bank for full instructions and the submission link.
   
 [Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1610758 ':class=button')
