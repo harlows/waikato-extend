@@ -114,11 +114,10 @@ The eCampusOntario H5P Studio is a place for Ontario educators to create, share,
 
   <details>
     <summary>MERLOT</summary>
-
+    
 [https://www.merlot.org/](https://www.merlot.org/)
 
 One of the first (20 years and counting) and still one of the largest, MERLOT or Multimedia Educational Resources for Learning and Online Teaching, aggregates 19 different types or categories of resources. There is initial vetting by MERLOT volunteers combined with the ability of peers to assess each resource.
-    
   </details>
 
   <details>
