@@ -46,7 +46,7 @@ The licenses with the most restrictive permissions are at the bottom moving up t
 
 ![Freedom of reuse explained](images/oer.png ':size=50%')
 
-Source: [UBC wiki: Cable Green](https://www.slideshare.net/cgreen/goopen-with-creative-commons/23).
+Source: [Cable Green](https://www.slideshare.net/cgreen/goopen-with-creative-commons/23).
 
 Creative Commons also provides a public domain dedication tool: [CC0](https://creativecommons.org/publicdomain/zero/1.0/). While this is not a license, this tool can be used by creators to relinquish all copyrights to their work and allow others to use the work without conditions.
 
