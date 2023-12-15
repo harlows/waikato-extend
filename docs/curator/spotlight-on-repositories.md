@@ -100,8 +100,7 @@ Developed by the George Mason University Libraries, The Mason OER Metafinder sea
 
 [https://openlibrary.ecampusontario.ca](https://openlibrary.ecampusontario.ca)
 
-The eCampusOntario Open Library is Ontario’s home for open educational resources. The library has over 500 resources spanning from textbooks to syllabi. All the resources in the Open Library have an Open License. If you do find an appropriate resource, consider adding your expertise and submitting a [review of the text](https://openlibrary.ecampusontario.ca/review-an-oer/).
-    
+The eCampusOntario Open Library is Ontario’s home for open educational resources. The library has over 500 resources spanning from textbooks to syllabi. All the resources in the Open Library have an Open License. If you do find an appropriate resource, consider adding your expertise and submitting a [review of the text](https://openlibrary.ecampusontario.ca/review-an-oer/).    
   </details>
 
   <details>
@@ -114,7 +113,7 @@ The eCampusOntario H5P Studio is a place for Ontario educators to create, share,
 
   <details>
     <summary>MERLOT</summary>
-    
+
 [https://www.merlot.org/](https://www.merlot.org/)
 
 One of the first (20 years and counting) and still one of the largest, MERLOT or Multimedia Educational Resources for Learning and Online Teaching, aggregates 19 different types or categories of resources. There is initial vetting by MERLOT volunteers combined with the ability of peers to assess each resource.
@@ -126,7 +125,6 @@ One of the first (20 years and counting) and still one of the largest, MERLOT or
 [https://core.ac.uk](https://core.ac.uk/)
 
 Based in the United Kingdom, CORE is committed to aggregating open access research from across the globe. With full text access to over 6 million articles and metadata for an additional 70 million, you can peek into the latest work from colleagues and leaders in your discipline from around the world.
-
   </details>
 
   <details>
@@ -134,8 +132,7 @@ Based in the United Kingdom, CORE is committed to aggregating open access resear
 
 [https://ocw.mit.edu/educator/](https://ocw.mit.edu/educator/)
 
-Beginning in 2000, MIT has been committed to contributing its courses and accompanying resources online, for free ([CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)). Now with 2,400 courses, educators can browse and borrow material relevant to their own courses. “Instructor insights” by MIT lecturers and professors provide a wonderful value add. The newly implemented filter or search by “instructional approach” is intriguing. Limit your search to activities and courses that promote active learning, model design process, or support reflective practice.
-    
+Beginning in 2000, MIT has been committed to contributing its courses and accompanying resources online, for free ([CC BY NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)). Now with 2,400 courses, educators can browse and borrow material relevant to their own courses. “Instructor insights” by MIT lecturers and professors provide a wonderful value add. The newly implemented filter or search by “instructional approach” is intriguing. Limit your search to activities and courses that promote active learning, model design process, or support reflective practice.    
   </details>
 
   <details>
@@ -144,7 +141,6 @@ Beginning in 2000, MIT has been committed to contributing its courses and accomp
 [https://publicdomainreview.org](https://publicdomainreview.org)
 
 Founded in 2011, it is an online journal and not-for-profit project dedicated to the exploration of curious and compelling works from the history of art, literature, and ideas. The focus is on works which have now fallen into the public domain, that vast commons of out-of-copyright material that everyone is free to enjoy, share, and build upon without restriction.
-
   </details>
   
   <details>
