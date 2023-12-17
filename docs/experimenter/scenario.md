@@ -1,3 +1,10 @@
+<style>
+  .td {
+    background-color: #1e1a34;
+    color: #fff;
+  }
+</style>
+
 ## Scenario
 
 |  |  |
