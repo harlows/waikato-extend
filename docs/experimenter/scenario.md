@@ -1,5 +1,5 @@
 <style>
-  .td {
+  .markdown-section td {
     background-color: #1e1a34;
     color: #fff;
   }
