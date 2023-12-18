@@ -28,26 +28,26 @@ It is not necessary for you to do any of the other modules before doing this one
 
 ### Extend Connections
 
-**[Accessibility](https://accessiblecampus.ca/understanding-accessibility/):** “is a general term used to describe the degree to which a product, device, service, or environment is available to be used by all intended audiences.”
-
-Here are some resources on how you can experiment with your pedagogy to become more accessible to all students:
-
-#### Article
-
-[Accessible Education](https://accessiblecampus.ca/tools-resources/educators-tool-kit/introduction-accessible-education/)
-
-#### Videos
-
-[An Educator's Introduction to the AODA](https://www.youtube.com/watch?time_continue=11&v=4AxaWGbf4mk&feature=emb_logo)
-
-[Racial Inequities in Higher Education](https://www.youtube.com/watch?v=1qXOjQ9nfv0)
-
-[The Importance of Accessible Materials in Higher Education](https://www.youtube.com/watch?v=LCcbtijv8fE)
-
-[Web Accessibility in Higher Education](https://www.youtube.com/watch?v=Kd9JvDg_Exk)
-
-[We Need to Talk About Race in Higher Education](https://www.youtube.com/watch?v=ldaBwZc6mPA)
-
-[Decolonising the Curriculum](https://www.youtube.com/watch?v=zeKHOTDwZxU)
-
-[Racial Microaggressions: Comments That Sting](https://www.youtube.com/watch?v=_85JVcniE_M)
+> **[Accessibility](https://accessiblecampus.ca/understanding-accessibility/):** “is a general term used to describe the degree to which a product, device, service, or environment is available to be used by all intended audiences.”
+>
+> Here are some resources on how you can experiment with your pedagogy to become more accessible to all students:
+>
+> #### Article
+>
+> [Accessible Education](https://accessiblecampus.ca/tools-resources/educators-tool-kit/introduction-accessible-education/)
+>
+> #### Videos
+>
+> [An Educator's Introduction to the AODA](https://www.youtube.com/watch?time_continue=11&v=4AxaWGbf4mk&feature=emb_logo)
+>
+> [Racial Inequities in Higher Education](https://www.youtube.com/watch?v=1qXOjQ9nfv0)
+>
+> [The Importance of Accessible Materials in Higher Education](https://www.youtube.com/watch?v=LCcbtijv8fE)
+>
+> [Web Accessibility in Higher Education](https://www.youtube.com/watch?v=Kd9JvDg_Exk)
+>
+> [We Need to Talk About Race in Higher Education](https://www.youtube.com/watch?v=ldaBwZc6mPA)
+>
+> [Decolonising the Curriculum](https://www.youtube.com/watch?v=zeKHOTDwZxU)
+>
+> [Racial Microaggressions: Comments That Sting](https://www.youtube.com/watch?v=_85JVcniE_M)
