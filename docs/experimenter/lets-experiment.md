@@ -1,4 +1,4 @@
-## Let’s Experiment
+## Let’s Experiment <!-- {docsify-ignore} -->
 
 On the next page you will find a list of ten experimenter activities that will challenge you to think about the ways in which you have been designing and delivering your course content, as well as the formats, tools, and approaches you have been using. For this module you are asked to complete only **3 out of the 10** possible experimenter activities.
 
