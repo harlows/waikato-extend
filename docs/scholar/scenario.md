@@ -8,7 +8,7 @@ Direct Link: [Scholar Scenario (Ontario Extend, 2017)](https://youtu.be/CoMWfeSK
 
 One of the toughest moments in my teaching career was as a guest lecturer for a face-to-face course in the School of Interactive Arts and Technology at Simon Fraser University. Most of my teaching up to that point had been as an instructor for a series of fully online courses. Now I was being asked to do the reverse of my experience—the dreaded lecture hall experience in front of 200 students, all of whom came to class armed with a laptop, cellphone or tablet.
 
-![Students sit facing the front in a tiered lecture theatre with laptops open.](images/N2PYK8S%20%281%29.jpeg)
+![Students sit facing the front in a tiered lecture theatre with laptops open.](images/N2PYK8S.jpeg)
 
 Image Source: CC [MCGunner](http://imgur.com/user/MCGunner) on Imgur at [http://imgur.com/N2PYK8S?tags](http://imgur.com/N2PYK8S?tags)
 
