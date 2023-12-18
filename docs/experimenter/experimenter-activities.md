@@ -103,6 +103,7 @@ Interaction types include content review, flashcards, matching games, spelling a
 Click the “Take it to the Bank” button to visit the activity for full instructions.
 
 [Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1640055 ':class=button')
+
   </details>
   
 </div>
