@@ -10,7 +10,7 @@ One of the toughest moments in my teaching career was as a guest lecturer for a 
 
 ![Students sit facing the front in a tiered lecture theatre with laptops open.](images/N2PYK8S.jpeg)
 
-Image Source: CC [MCGunner](http://imgur.com/user/MCGunner) on Imgur at [http://imgur.com/N2PYK8S?tags](http://imgur.com/N2PYK8S?tags)
+Image Source: CC [MCGunner](http://imgur.com/user/MCGunner) on Imgur at [http://imgur.com/N2PYK8S](http://imgur.com/N2PYK8S)
 
 My instructor colleague asked that I not lecture for the full hour, but instead create an interactive experience that would engage the students and allow them to participate throughout the class as a purposeful demonstration of a lecture topic on knowledge construction. My heart still beats rapidly when I think back to that day. I had to be fully prepped with an engaging set of activities for an hour or be prepared to potentially “bomb.”
 
