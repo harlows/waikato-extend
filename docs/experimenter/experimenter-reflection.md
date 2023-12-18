@@ -6,4 +6,4 @@
 >
 > You can choose to upload your reflection as a document, link to a Google Doc or blog post, or compose it entirely in your response to the activity.
 
-[Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1640047)
+[Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1640047 ':class=button')
