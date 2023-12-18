@@ -6,7 +6,7 @@ In educational contexts, using the design-thinking approach can be helpful becau
 
 There are various [methodologies and approaches](http://www.uxbeginner.com/ux-beginner-guide-understand-design-thinking-approaches/) to design-thinking. In this module, we will follow the path of:
 
-*   Empathize
+*   Empathise
 *   Define
 *   Ideate
 
@@ -16,7 +16,9 @@ There are various [methodologies and approaches](http://www.uxbeginner.com/ux-be
 
 If design thinking is new to you, watch this video, “What is Design Thinking?”.
 
-<div class="video-container-4by3"><<iframe width="560" height="315" src=""></iframe></div>
+<div class="video-container-4by3"><<iframe width="560" height="315" src="https://www.youtube.com/embed/Ee4CKIPkIik"></iframe></div>
+
+[Direct Source:](https://www.youtube.com/watch?v=Ee4CKIPkIik)
 
 * * *
 
