@@ -1,4 +1,4 @@
-## Empathize with your learners
+## Empathise with your learners
 
 ![](images/empathy.jpg)
 
@@ -22,6 +22,8 @@ Design thinking starts with empathy. When you design something that is going to 
 > Visit the [Activity Bank Empathy Map](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1649795) activity for full instructions and the activity bank submission link.
 
 [Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1649795 ":class=button")
+
+* * *
 
 After your Empathy Map is complete, try to get additional feedback in one of the following ways:
 
