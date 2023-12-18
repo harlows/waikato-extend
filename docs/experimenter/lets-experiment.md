@@ -16,7 +16,7 @@ This module encourages you reflect on those curious questions, start experimenti
 ### Extend Connections
 > Many learners use mobile devices as their primary way to access to learning materials. To gain a better appreciation for the experience on mobile devices,
 >
-> Complete at least 1 of the Experimenter activities using a tablet or smartphone! Yes, it’s possible!
+>> ### Complete at least 1 of the Experimenter activities using a tablet or smartphone! Yes, it’s possible!
 
 * * *
 
