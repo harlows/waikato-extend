@@ -1,4 +1,4 @@
-## Embrace Experimentation
+## Embrace Experimentation <!-- {docsify-ignore} -->
 
 The English Oxford Dictionary defines an [experimenter](https://en.oxforddictionaries.com/definition/experimenter) as a person who “tries out new ideas, methods and activities”. Experimenters are adventurers, path finders, seekers; they are inquisitive and have “an openness to try, reflect & learn from new approaches, pedagogy and technologies to support student learning” (Bates 2014).
 
