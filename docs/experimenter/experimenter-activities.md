@@ -107,3 +107,5 @@ Click the “Take it to the Bank” button to visit the activity for full instru
   </details>
   
 </div>
+
+Identify a new experimenter activity using a technology tool not listed above. You're welcome to use the [Extend Toolkit](https://toolkit.ecampusontario.ca/tool/canva/) to choose a tool for your activity or you can use something else you've tried. Be sure to provide a title and detailed description.
