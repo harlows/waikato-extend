@@ -1,4 +1,4 @@
-## Overview
+## Overview <!-- {docsify-ignore} -->
 
 This module presents you with a series of challenges that invite you to experiment—to be curious and creative as you explore, and to reflect on new approaches to designing learning experiences. Experimentation is key to extending our skills related to online and technology-enabled learning.
 
