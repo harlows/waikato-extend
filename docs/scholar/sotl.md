@@ -18,6 +18,8 @@ Brock University has also recently created a series of engaging animated YouTube
 > 
 [Take me to the discussion!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1624862 ":class=button")
 
+* * *
+
 ### Extend Activity #1
 #### 3 Keys of SoTL
 > The educators in the videos express multiple experiences about SoTL. Think about which of the experiences are similar to your own.
