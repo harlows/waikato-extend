@@ -10,22 +10,26 @@ A good collaborative community may reflect the guiding principles found within a
 
 Communities of practice generally have three main characteristics:
 
-### Domain
+**Domain**: a shared knowledge and skill within a focused area.
 
-a shared knowledge and skill within a focused area.
+**Community**: individuals converging and learning together.
 
-### Community
-
-individuals converging and learning together.
-
-### Practice
-
-sharing strategies, tools, resources and examples through a knowledge exchange.
+**Practice**: sharing strategies, tools, resources and examples through a knowledge exchange.
 
 ![A Circle of People, representing a community of practice illustating that a community of practice spontaneously comes togehter under a common/theme/purpose to build trust among members in order to share tactic knowledge thereby developing shared practice.  This creates collective intelligence which becomes implicitly held knowledge with each other. ](images/38547088821_54f179c177_o.jpg)
 
 The aim is to broaden your network to include diverse, cross-disciplinary skills and insights, and the online world affords just that. You will find that you can often meet peers and potential collaborators through chance online meetings in discussion groups or by using social networking tools such as Twitter.
 
-### Communities of Practice Matching Activity
+### Extend Activity #1
+#### Collaborative Dining Table
+> Think about the past year of your professional life. What types of projects or ideas have collaborated on with others?
+>
+> This activity requires you to do some reflection on past or current collaborative projects and as an interesting twist, visually display your reflection using a dining table (or perhaps banquet) metaphor. You will:
+>
+> - describe the people you worked with,
+> - the modes of communication that were used and which ones worked better than others,
+> - and you will also identify patterns and gaps.
+>
+> Visit the [Collaborative Dining Table activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1641389) in the Activity Bank for full instructions and submission link.
 
-Communities of practice generally have 3 main characteristics:
+[Take it to the bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1641389 ":class=button")
