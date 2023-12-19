@@ -30,6 +30,6 @@ You might want to storyboard the process or create a checklist. Either way, map 
 
 ### Check your Knowledge on the Design Thinking Process
 
-Before or after you dive into this final Extend Activity, check your knowledge of the design thinking process by correctly choosing the correct answer for each phase of the process.
+Before or after you dive into this final Extend Activity, check your knowledge of the design thinking process by dragging the correct description on to each phase of the design thinking process.
 
-Click or tab to each circle and select it by clicking or hitting the enter key.
+<iframe width="560" height="315" src="https://harlows.github.io/design-thinking-drag-and-drop.html" style="border:none;"></iframe>
