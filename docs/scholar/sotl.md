@@ -17,3 +17,11 @@ Brock University has also recently created a series of engaging animated YouTube
 > Visit the Extend Community discussion board to identify which Brock University SoTL video resonated with you the most and why. Would you recommend it to a colleague?
 > 
 [Take me to the discussion!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1624862 ":class=button")
+
+### Extend Activity #1
+#### 3 Keys of SoTL
+> The educators in the videos express multiple experiences about SoTL. Think about which of the experiences are similar to your own.
+>
+> Visit the Three Keys of SoTL in the Activity Bank for full instructions and the submission link.
+
+[Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1649871 ":class=button")
