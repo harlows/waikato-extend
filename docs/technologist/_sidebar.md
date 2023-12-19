@@ -8,3 +8,4 @@
 - [Define Your Learner Challenge](define-your-learner-challenge.md)
 - [Ideate](ideate.md)
 - [Prototype](prototype.md)
+- [Design](design.md)
