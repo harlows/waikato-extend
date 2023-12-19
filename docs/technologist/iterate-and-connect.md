@@ -1,7 +1,6 @@
 ## Iterate and Connect
 
-![A smartphone with the words create, evaluate, summarize, use and locate
-](https://images/phone.jpg)
+![A smartphone with the words create, evaluate, summarize, use and locate](images/phone.jpg)
 
 ### 1. Refine
 
