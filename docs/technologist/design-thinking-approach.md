@@ -22,9 +22,8 @@ Direct Link: [What is Design Thinking](https://www.youtube.com/watch?v=Ee4CKIPkI
 
 * * *
 
-Find out more about each phase of the design thinking process
--------------------------------------------------------------
+### Find out more about each phase of the design thinking process
 
 Click on the flashcards below for a brief description of each phase of the design thinking process.
 
-“Technologist Design Thinking Process” by Joanne Kehoe is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+<iframe width="560" height="315" src="https://harlows.github.io/design-thinking-dialog-cards.html" style="border:none;"></iframe>
