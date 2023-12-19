@@ -16,4 +16,4 @@ Direct Link: [Making a Case for SoTL](https://youtu.be/JlWM4K2WL3Q)
 >
 > Visit the [Engage with SoTL](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1649875) activity in the Activity Bank for full instructions..
 
-[Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1649875)
+[Take it to the Bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1649875 ":class=button")
