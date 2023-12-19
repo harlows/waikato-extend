@@ -36,12 +36,6 @@ There are some well-known areas of practice that SoTL researchers have probed th
 
 * * *
 
-### Other Tools to Support SoTL Research, Design and Organisation
-
-The University of British Columbia provides [SoTL Explorer](http://sotl-explorer.sites.olt.ubc.ca) , which you can use as you consider how to frame your projects in a research context.
-
-* * *
-
 ### Extend Activity #3
 #### Outline your SoTL Plan
 > Now we move into the phase where you will outline a research plan for an SoTL project in your area of interest.
