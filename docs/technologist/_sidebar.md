@@ -9,3 +9,5 @@
 - [Ideate](ideate.md)
 - [Prototype](prototype.md)
 - [Design](design.md)
+- [Iterate and Connect](iterate-and-connect.md)
+- [Summary](summary.md)
