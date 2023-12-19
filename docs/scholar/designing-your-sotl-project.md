@@ -5,7 +5,7 @@
 Now comes the interesting part: designing a SoTL project of your own.
 
 The Higher Education Quality Council of Ontario (HEQCO), the University of Guelph, and Western University provide useful links for planning a SoTL research projects:
-
+|    |
 | -- |
 | [Researching Teaching and Student Outcomes in Postsecondary Education: A Guide](http://www.heqco.ca/en-ca/Research/ResPub/Pages/Researching-Teaching-and-Student-Outcomes-in-Postsecondary-Education-A-Guide.aspx) published by the Higher Education Quality Council of Ontario. |
 | University of Guelph: [Engaging in SoTL](https://otl.uoguelph.ca/teaching-assessment-resources/sotl-snapshots) |
