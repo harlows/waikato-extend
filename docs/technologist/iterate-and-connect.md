@@ -32,4 +32,4 @@ You might want to storyboard the process or create a checklist. Either way, map 
 
 Before or after you dive into this final Extend Activity, check your knowledge of the design thinking process by dragging the correct description on to each phase of the design thinking process.
 
-<iframe width="560" height="320" src="https://harlows.github.io/design-thinking-drag-and-drop.html" style="border:none;"></iframe>
+<iframe width="560" height="315" src="https://harlows.github.io/design-thinking-drag-and-drop.html" style="border:none; height=441px;"></iframe>
