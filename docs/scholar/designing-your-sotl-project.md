@@ -1,6 +1,6 @@
 ## Designing Your SoTL Project
 
-![A Planning notebook opened to show two pages with drawings that could represnet planning a project.](https://elearn.waikato.ac.nz/draftfile.php/90614/user/draft/48523275/scholar-design-project.png)
+![A Planning notebook opened to show two pages with drawings that could represnet planning a project.](images/scholar-design-project.png)
 
 Now comes the interesting part: designing a SoTL project of your own.
 
