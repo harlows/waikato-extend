@@ -18,6 +18,8 @@ Typical considerations include:
 
 Select each card to find out more information about how to develop a SoTL project.
 
+<iframe width="560" height="315" src="https://harlows.github.io/sotl-considerations-dialog-cards.html"></iframe>
+
 Your own research experience may predispose you to follow a deductive or quantitative approach to test a current approach to the problem. Alternatively, you may wish to take a more exploratory, inductive approach using qualitative methods to illuminate new thinking about a teaching/learning problem. It is really up to you what approach you take.
 
 * * *
