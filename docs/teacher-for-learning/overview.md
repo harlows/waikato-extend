@@ -16,6 +16,8 @@ Why else do we teach but for learning? Yet, there is often a disconnect between 
 
 Design effective learning activities and experiences that are grounded in research-based principles of learning that promote students using their knowledge in meaningful ways.
 
+* * *
+
 ## Objectives
 
 *   Reflect on core beliefs about teaching and learning and the ways they impact teaching practices and learning outcomes.
