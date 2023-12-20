@@ -6,7 +6,7 @@ Why else do we teach but for learning? Yet, there is often a disconnect between 
 >
 > [**Effective**](https://www.merriam-webster.com/dictionary/effective)**:** producing a decided, decisive, or desired effect.
 >
-> [**Intersectionality**](https://www.ywboston.org/2017/03/what-is-intersectionality-and-what-does-it-have-to-do-with-me/)**:** The interconnected nature of social categorizations such as race, class, and gender, regarded as creating overlapping and interdependent systems of discrimination or disadvantage. Coined by Crenshaw (1989), it takes into account people’s overlapping identities and experiences in order to understand the complexity of prejudices they face.
+> [**Intersectionality**](https://www.ywboston.org/2017/03/what-is-intersectionality-and-what-does-it-have-to-do-with-me/)**:** The interconnected nature of social categorisations such as race, class, and gender, regarded as creating overlapping and interdependent systems of discrimination or disadvantage. Coined by Crenshaw (1989), it takes into account people’s overlapping identities and experiences in order to understand the complexity of prejudices they face.
 >
 > [**Equity**](https://www.broward.org/Climate/Documents/EquityHandout_082019.pdf)**:** Just and fair inclusion. The goals of equity must be to create conditions that allow all to reach their full potential. Equity is less concerned with the optics of making things look “equal”, rather it addresses structural imbalances that keep all from fair experiences.
 >
