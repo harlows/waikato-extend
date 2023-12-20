@@ -1,6 +1,10 @@
 # Organise Knowledge
 
+![blocks](images/teacher-for-learning-organise-knowledge-blocks.png)
+
 The way we present information and how we subsequently categorise new knowledge can make dramatic differences in our students’ learning. We can help learners to make sense of new information by being explicit about how we suggest information fits with prior knowledge.
+
+* * *
 
 ### Activity <!-- {docsify-ignore} -->
 
