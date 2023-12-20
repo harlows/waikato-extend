@@ -10,8 +10,8 @@
 
 - Always consider why your learners would be interested in learning something.
 
- -- What is the relevance for them?
- -- How will it connect to future activities in this class or beyond?
+ - What is the relevance for them?
+ - How will it connect to future activities in this class or beyond?
  
 - This may mean shifting your understanding of why students are enrolled in your course. They might not be there to learn for learning’s sake but to further their employability trajectory. You should not pander, but it is important to be mindful of the different motivations for learning and attempt to find creative ways to make learning meaningful for every student.
 
