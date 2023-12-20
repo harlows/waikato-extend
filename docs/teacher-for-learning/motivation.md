@@ -1,6 +1,6 @@
 # Motivation
 
-![climbers hiking through mountain peak during daytime](images/mathias-jensen-5x4U6InVXpc-unsplash.jpg)
+![car](images/teacher-for-learning-motivation-running-car.jpg)
 
 What drives you to do something? What drives learners? Often, we expect our learners to share our enthusiasm for a topic and they just do not seem to muster or exude the same level of excitement. Sometimes they do not even show up.
 
