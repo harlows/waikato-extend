@@ -10,8 +10,8 @@
 
 - Always consider why your learners would be interested in learning something.
 
- - What is the relevance for them?
- - How will it connect to future activities in this class or beyond?
+  - What is the relevance for them?
+  - How will it connect to future activities in this class or beyond?
  
 - This may mean shifting your understanding of why students are enrolled in your course. They might not be there to learn for learning’s sake but to further their employability trajectory. You should not pander, but it is important to be mindful of the different motivations for learning and attempt to find creative ways to make learning meaningful for every student.
 
@@ -21,7 +21,7 @@
 >
 >For this activity you will **brainstorm a list of WIIFM from a student perspective**.
 >
->If you cannot think of more than “because you should know it,” then you need to talk to your students and get a better sense of where they are in their learning and where they are going. If you know your students well but you still have a hard time determining the relevance of a topic, perhaps you should consider removing this content from your course. Sometimes, what excites you, might not be what excites them.
+> If you cannot think of more than “because you should know it,” then you need to talk to your students and get a better sense of where they are in their learning and where they are going. If you know your students well but you still have a hard time determining the relevance of a topic, perhaps you should consider removing this content from your course. Sometimes, what excites you, might not be what excites them.
 >Visit the [WIIFM activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1601249) in the Activity Bank for full instructions.
 >
   
