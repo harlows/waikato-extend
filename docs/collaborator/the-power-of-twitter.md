@@ -10,7 +10,7 @@ Watch the video [Using Twitter Effectively in Education](https://www.youtube.com
 >
 > Take a look at: **[A Little Bird Told Me: Maximizing Your Learning on Twitter](https://googleguacamole.wordpress.com/2017/01/16/a-little-bird-gets-a-new-look-visual-article-series/)**, Infographic by Laura Gogia. 
 >
-> Create a new tweet commenting on one thing you have learned about using Twitter effectively in education and tag [@waikatoextend](https://twitter.com/waikatoextend). Also use the hashtag **#oextend** in your tweet. (if you want to get really fancy, tag @courosa, the star of the video clip!)
+> Create a new tweet commenting on one thing you have learned about using Twitter effectively in education and tag [@waikatoextend](https://twitter.com/waikatoextend). Also use the hashtag **#wextend** in your tweet. (if you want to get really fancy, tag @courosa, the star of the video clip!)
 >
 > Capture the link to your tweet to use in your badge application.
 >
