@@ -18,3 +18,5 @@ Developing digital literacies is an ongoing process. These modules are a startin
 As an educator, it is important to keep in mind that there are barriers to teaching and learning and not all students have the same tools. A discussion of how to be aware of those [barriers to digital literacy](https://bccampus.ca/wp-content/uploads/2020/07/Barriers-Digital-Literacy.pdf) and how to remove them as much as possible can be found in BCcampus’ study Removing Barriers to Online Learning Through a Teaching and Learning Lens.
 
 > What does digital literacy mean to you? How would you define digital literacy? Share your thoughts with the Community!
+
+[Take me to the discussion!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1626654 ":class=button")
