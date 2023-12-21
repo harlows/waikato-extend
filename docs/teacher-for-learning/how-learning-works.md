@@ -16,4 +16,4 @@ The seven principles are:
 *   Goal-directed **practice** coupled with targeted **feedback** enhances the quality of students’ learning.
 *   Students’ current level of **development** interacts with the social, emotional, and intellectual **climate** of the course to impact learning.
 *   To become **self-directed learners,** students must learn to monitor and adjust their approaches to learning.
-![A visual representation of the 7 research-based principled for Smart Teaching - from the book How Learning Works.](images/teacher-for-learning-how-learning-works-seven-principles.jpg ":size=75%")
+![A visual representation of the 7 research-based principled for Smart Teaching - from the book How Learning Works.](images/teacher-for-learning-how-learning-works-seven-principles.jpg ")
