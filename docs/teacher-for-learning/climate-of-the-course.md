@@ -23,11 +23,24 @@ These factors that promote a healthy classroom climate will vary depending on th
 As you will see in other modules, the [Community of Inquiry](https://coi.athabascau.ca/coi-model/) is a helpful framework. Beyond just the presentation of content, described as the “cognitive presence,” it is also important to balance and consider social and teaching presences.
 
 ## Extend Connections
+>
+> Be aware that some ideas of a positive classroom space can come at the expense of marginalised students. When trying to create a learning environment that is productive and inclusive for all students, consider the multiplicity of experiences students might be coming from.
+>
+> Some great resources that might help you think about this are:
+>
+> - Anthony Jack’s Ted Talk [On Diversity: Access Ain’t Inclusion](https://www.youtube.com/watch?v=j7w2Gv7ueOc)
+>
+> - Peter James Hudson’s interview with [“Katherine McKittrick, Author of Demonic Grounds, on Trigger Warnings”](https://bullybloggers.wordpress.com/2014/12/17/katherine-mckittrick-author-of-demonic-grounds-on-trigger-warnings/)
 
-Be aware that some ideas of a positive classroom space can come at the expense of marginalized students. When trying to create a learning environment that is productive and inclusive for all students, consider the multiplicity of experiences students might be coming from.
+* * *
 
-Some great resources that might help you think about this are:
+### Reflection
+> Create an introductory activity connected to your discipline to get to know your learners. For example:
+>
+> - In a human geography class, you could ask every student to identify a location from which they would want to conduct fieldwork.
+> - For English literature, each student could discuss what fictional character they would like to invite to dinner, and why.
+> - In history, ask what figure, living or dead, would be the most interesting to have at a cocktail party?
+>
+> Can you think of some fun and interesting questions for your discipline? Add your questions to the discussion forum!
 
-Anthony Jack’s Ted Talk [On Diversity: Access Ain’t Inclusion](https://www.youtube.com/watch?v=j7w2Gv7ueOc)
-
-Peter James Hudson’s interview with [“Katherine McKittrick, Author of Demonic Grounds, on Trigger Warnings”](https://bullybloggers.wordpress.com/2014/12/17/katherine-mckittrick-author-of-demonic-grounds-on-trigger-warnings/)
+[Take me to the discussion!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1626663 ":class=button")
