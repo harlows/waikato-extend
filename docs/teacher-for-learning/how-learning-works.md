@@ -9,11 +9,11 @@ Jossey-Bass: San Francisco.
 
 The seven principles are:
 
-*   Students’ **prior knowledge** can help or hinder learning.
-*   How students **organise knowledge** influences how they learn and apply what they know.
-*   Students’ **motivation** determines, directs, and sustains what they do to learn.
-*   To develop **mastery,** students must acquire component skills, practice integrating them, and know when to apply what they have learned.
-*   Goal-directed **practice** coupled with targeted **feedback** enhances the quality of students’ learning.
-*   Students’ current level of **development** interacts with the social, emotional, and intellectual **climate** of the course to impact learning.
-*   To become **self-directed learners,** students must learn to monitor and adjust their approaches to learning.
+1. Students’ **prior knowledge** can help or hinder learning.
+2. How students **organise knowledge** influences how they learn and apply what they know.
+3. Students’ **motivation** determines, directs, and sustains what they do to learn.
+4. To develop **mastery,** students must acquire component skills, practice integrating them, and know when to apply what they have learned.
+5. Goal-directed **practice** coupled with targeted **feedback** enhances the quality of students’ learning.
+6. Students’ current level of **development** interacts with the social, emotional, and intellectual **climate** of the course to impact learning.
+7. To become **self-directed learners,** students must learn to monitor and adjust their approaches to learning.
 ![A visual representation of the 7 research-based principled for Smart Teaching - from the book How Learning Works.](images/teacher-for-learning-how-learning-works-seven-principles.jpg ")
