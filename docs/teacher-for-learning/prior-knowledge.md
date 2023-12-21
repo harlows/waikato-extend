@@ -33,6 +33,7 @@ You can identify some common misconceptions in your discipline by considering yo
 
 * * *
 Visit the discussion forum to identify a concept that is often misunderstood in your discipline. Explain why the concept is important and what the impact/effect is of not understanding this concept.
+
 [Take me to the discussion!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1626662 ":class=button")
 
 * * *
@@ -46,4 +47,4 @@ Visit the discussion forum to identify a concept that is often misunderstood in 
 >
 > For this activity you will re-state your misunderstood concept and then identify and expand on how you would explain your concept through an analogy by responding to the [Misunderstood activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1593750).
 
-[Take me to the bank!(https://elearn.waikato.ac.nz/mod/forum/view.php?id=1593750 ":class=button")
+[Take me to the bank!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1593750 ":class=button")
