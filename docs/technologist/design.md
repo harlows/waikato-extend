@@ -21,13 +21,13 @@ You can always take a cautionary, but equally valuable approach by mocking up yo
 
 **Visit the Extend Community to share your prototype with your peers or learners to receive feedback.**
 
-Share a picture of your post-it note prototype with peers or learners to obtain feedback. Think about providing feedback to your peers on their prototypes with regards to the following:
-
-- What worked?
-- What did not work?
-- What questions do you have?
-- Could learners experience any barriers in using this prototype?
-- If so, how could they be overcome?
-- Do you have any ideas for them to consider?
+>Share a picture of your post-it note prototype with peers or learners to obtain feedback. Think about providing feedback to your peers on their prototypes with regards to the following:
+>
+> - What worked?
+> - What did not work?
+> - What questions do you have?
+> - Could learners experience any barriers in using this prototype?
+> - If so, how could they be overcome?
+> - Do you have any ideas for them to consider?
 
 [Take me to the discussion!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1626655 ":class=button")
