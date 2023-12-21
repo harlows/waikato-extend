@@ -32,8 +32,9 @@ You can identify some common misconceptions in your discipline by considering yo
 *   Links to students’ own knowledge and experience.
 
 * * *
-Visit the discussion forum to identify a concept that is often misunderstood in your discipline. Explain why the concept is important and what the impact/effect is of not understanding this concept.
-
+>
+> Visit the discussion forum to identify a concept that is often misunderstood in your discipline. Explain why the concept is important and what the impact/effect is of not understanding this concept.
+>
 [Take me to the discussion!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1626662 ":class=button")
 
 * * *
