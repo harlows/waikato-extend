@@ -1,5 +1,7 @@
 # Prior Knowledge
 
+![Suitcase](images/teacher-for-learning-prior-knowledge-suitcase.png)
+
 We know that without a doubt that the single most important attribute that your students bring to class is their prior learning and experience. Students will come to learning from a multitude of experiences which will be important to consider in your pedagogy. This knowledge can either contain essential building blocks to advance toward mastery or be a heavy weight that slows down and impedes learning.
 
 * * *
