@@ -59,9 +59,9 @@ Other metacognitive strategies that lead to self-directed learners are [Note-tak
 >
 > Now it is time to put it together considering your own teaching philosophy.
 >
->> _What is your metaphor for teaching and learning?_
+>> ### _What is your metaphor for teaching and learning?_
 >
-> See some exercises for exploring your teaching philosophy and some metaphors for teaching from the University of Waterloo.
+> See some [exercises for exploring your teaching philosophy and some metaphors for teaching](https://pilots.uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/professional-development/enhancing-your-teaching/exploring-your-teaching-philosophy) from the University of Waterloo.
 >
 > Visit the [Your Metaphor activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1593640) in the Activity Bank for full instructions.
 
