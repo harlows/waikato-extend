@@ -30,3 +30,20 @@ You can identify some common misconceptions in your discipline by considering yo
 *   Links within courses.
 *   Links to other disciplines.
 *   Links to students’ own knowledge and experience.
+
+* * *
+Visit the discussion forum to identify a concept that is often misunderstood in your discipline. Explain why the concept is important and what the impact/effect is of not understanding this concept.
+[Take me to the discussion!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1626662 ":class=button")
+
+* * *
+
+### Extend Activity #1
+#### Misunderstood
+> “Extend” your thinking on this misunderstood concept. Can you think of an analogy that can help make the concept make sense to students?
+>
+> - Does this analogy take into account where students are coming from in their previous experiences?
+> - Or how could you break that concept down into bite-size chunks so your students can more easily digest that harder-to-acquire information?
+>
+> For this activity you will re-state your misunderstood concept and then identify and expand on how you would explain your concept through an analogy by responding to the [Misunderstood activity](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1593750).
+
+[Take me to the bank!(https://elearn.waikato.ac.nz/mod/forum/view.php?id=1593750 ":class=button")
