@@ -1,10 +1,10 @@
 ## Empathise with your learners
 
-![](images/empathy.jpg)
+![](images/empathy.jpg ":siz=50%")
 
 Design thinking starts with empathy. When you design something that is going to be used by someone else—for a lecture, an activity, an assessment—you must first understand what that person needs. For example, when architects design a building, they put aside their own desires and think about what the users of that building need.
 
-![](images/Extend%20Activity.png)
+* * *
 
 ### Extend Activity #1
 #### Empathy Map
