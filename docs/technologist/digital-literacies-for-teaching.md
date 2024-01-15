@@ -19,4 +19,4 @@ As an educator, it is important to keep in mind that there are barriers to teach
 
 > What does digital literacy mean to you? How would you define digital literacy? Share your thoughts with the Community!
 
-[Take me to the discussion!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1626654 ":class=button")
+[:fas fa-regular fa-comments: Take me to the discussion!](https://elearn.waikato.ac.nz/mod/forum/view.php?id=1626654 ":class=button")
